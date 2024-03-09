@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jeanpiere Solorzano</h1>
 
 <p>
-  I'm Jeanpiere Solorzano, a Software Engineer with a focus on JavaScript. I am deeply passionate about leveraging technology to solve complex problems,fostering collaboration among fellow developers, and continuing advancing my coding skills.
+  I'm Jeanpiere Solorzano, a Software Engineer with a focus on JavaScript. I am deeply passionate about leveraging technology to solve complex problems, fostering collaboration among fellow developers, and continuing advancing my coding skills.
 </p>
 
 - 🌱 I'm on a continuous journey to enhance my coding skills and embrace new challenges
